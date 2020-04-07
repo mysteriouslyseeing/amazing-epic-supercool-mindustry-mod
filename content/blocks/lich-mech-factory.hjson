@@ -1,9 +1,10 @@
 type: UnitFactory
 name: Lich Factory
+description: "Produces heavy, incendiary missile-shooting weapon arrays."
 research: revenant-factory
 category: units
 unitType: lich
-produceTime: 350
+produceTime: 6000
 size: 5
 breakable: true
 rotate: false
