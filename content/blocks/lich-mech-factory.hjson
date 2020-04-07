@@ -1,12 +1,19 @@
-type: unitfactory
-name: Lich Mech Factory
+type: UnitFactory
+name: Lich Factory
 research: revenant-factory
 category: units
+unitType: lich
+produceTime: 350
 size: 5
 breakable: true
 rotate: false
 solid: false
 destructible: true
+consumes: {
+	items: [
+		copper/1
+	]
+}
 requirements: [
 	"copper/1"
 ]
