@@ -1,16 +1,18 @@
 type: UnitFactory
 name: Lich Factory
-description: "Produces heavy, incendiary missile-shooting weapon arrays."
+description: "Produces heavy, missile-shooting weapon arrays."
 research: revenant-factory
 category: units
 unitType: lich
 produceTime: 2500
 maxSpawn: 2
+buildCostMultiplier: 5
 size: 8
 breakable: true
 rotate: false
 destructible: true
 consumes: {
+	power: 4
 	items: {
 		items: [
 			"silicon/60"
