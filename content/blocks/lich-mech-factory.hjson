@@ -11,7 +11,7 @@ solid: false
 destructible: true
 consumes: {
 	items: [
-		copper/1
+		"copper/1"
 	]
 }
 requirements: [
