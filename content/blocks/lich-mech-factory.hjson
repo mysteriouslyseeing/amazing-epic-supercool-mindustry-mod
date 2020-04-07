@@ -4,19 +4,26 @@ description: "Produces heavy, incendiary missile-shooting weapon arrays."
 research: revenant-factory
 category: units
 unitType: lich
-produceTime: 4000
+produceTime: 2500
+maxSpawn: 2
 size: 8
 breakable: true
 rotate: false
-solid: false
 destructible: true
 consumes: {
 	items: {
 		items: [
-			"copper/1"
+			"silicon/60"
+			"titanium/50"
+			"surge-alloy/15"
+			
 		]
 	}
 }
 requirements: [
-	"copper/1"
+	"silicon/250"
+	"surge-alloy/70"
+	"plastanium/50"
+	"lead/200"
+	"titanium/160"
 ]
