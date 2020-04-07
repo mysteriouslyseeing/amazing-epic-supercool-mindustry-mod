@@ -1,2 +1,10 @@
 type: unitFactory
 research: revenant-factory
+size: 5
+breakable: true
+rotate: false
+solid: false
+destructible: true
+requirements: [
+	"copper/1"
+]
