@@ -1,5 +1,7 @@
-type: unitFactory
+type: unitfactory
+name: Lich Mech Factory
 research: revenant-factory
+category: units
 size: 5
 breakable: true
 rotate: false
