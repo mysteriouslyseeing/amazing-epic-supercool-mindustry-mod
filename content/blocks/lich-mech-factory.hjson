@@ -4,8 +4,8 @@ description: "Produces heavy, incendiary missile-shooting weapon arrays."
 research: revenant-factory
 category: units
 unitType: lich
-produceTime: 6000
-size: 5
+produceTime: 4000
+size: 8
 breakable: true
 rotate: false
 solid: false
