@@ -10,9 +10,11 @@ rotate: false
 solid: false
 destructible: true
 consumes: {
-	items: [
-		"copper/1"
-	]
+	items: {
+		items: [
+			"copper/1"
+		]
+	}
 }
 requirements: [
 	"copper/1"
