@@ -1,3 +1,4 @@
 type: OreBlock
 itemDrop: energy-crystal
 playerUnmineable: true
+oreDefault: true
