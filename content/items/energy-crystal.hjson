@@ -1,0 +1,4 @@
+type: resource
+name: Energy Crystal
+description: A highly compressed form of energy
+color: #e6e600
